@@ -10,7 +10,7 @@ var mango1, stone;
 var world,boy, chian;
 
 function preload(){
-	boy = loadImage("images/boy.png");
+	boy = loadImage("boy.png");
   }
 
 function setup() {
